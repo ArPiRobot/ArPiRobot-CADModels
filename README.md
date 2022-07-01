@@ -5,10 +5,14 @@ CAD models for custom 3D printable parts for use on ArPiRobot Robots.
 
 ## Design Software
 
-Parts in this repo were designed using [FreeCAD]() version `0.19`. FreeCAD is free and open source software which can be downloaded for Windows, macOS, and Linux. Download and install FreeCAD to open the parts. Once opened, the parts can be exported to `stl` files (or many other formats) for use printing by using the `File > Export` option.
+Parts in this repo were designed using [FreeCAD](https://www.freecadweb.org/) version `0.19`. FreeCAD is free and open source software which can be downloaded for Windows, macOS, and Linux. Download and install FreeCAD to open the parts. Once opened, the parts can be exported to `stl` files (or many other formats) for use printing by using the `File > Export` option.
+
+Additionally, some more complex designs include assemblies. FreeCAD has no builtin assembly support, so a third party workbench [Assembly3]() is used. This workbench will need to be installed to open some designs. This can be installed using the Addon Manager in FreeCAD (`Tools > Addon Manager`).
 
 
-## Parts
+## Designs
+
+TODO: Update this after file organization structure changes (if it changes)
 
 #### Quadrature Encoder
 
@@ -25,10 +29,13 @@ Custom quadrature encoder for a "TT motor" using 2 IR photo interrupters and a c
 `QuadratureEncoder`: Assembly of the encoder shown on a TT motor with photo interrupters. Not intended for printing. Intended as an assembly reference.
 
 
-#### Other Parts
+## Custom Parts
 
-`PiStandoffHat`: Printable standoff to support a hat on top of a raspberry pi (model A or B).
+The `CustomParts` folder contains various custom designed parts. These parts are designed to be 3d-printable. Often, these custom parts are used as part of a larger design listed above.
 
-`PiStandoffBonnet`: Printable standoff to support a bonnet on top of a raspberry pi zero.
 
-`IRSensorMountingBracket`: Bracket to lower TCRT5000 IR sensors to allow use in a black line follower robot where the base is too high (due to common TT motor wheel size) to directly mount the sensor.
+- `PiStandoffHat`: Printable standoff to support a hat on top of a raspberry pi (model A or B).
+
+- `PiStandoffBonnet`: Printable standoff to support a bonnet on top of a raspberry pi zero.
+
+- `IRSensorMountingBracket`: Bracket to lower TCRT5000 IR sensors to allow use in a black line follower robot where the base is too high (due to common TT motor wheel size) to directly mount the sensor.
