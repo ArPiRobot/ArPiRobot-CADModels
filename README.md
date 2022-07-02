@@ -1,6 +1,6 @@
-# ArPiRobot-CustomParts
+# ArPiRobot-CADModels
 
-CAD models for custom 3D printable parts for use on ArPiRobot Robots.
+CAD models for robots and custom designed parts.
 
 
 ## Design Software
