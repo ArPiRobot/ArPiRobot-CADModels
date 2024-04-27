@@ -14,11 +14,6 @@ This workbench can be installed from the Addon Manager in FreeCAD (`Tools > Addo
 Four wheel drive robot built on a 6" by 9" wooden clipboard (low profile clip) using low cost "TT Motors". This robot is designed to be low cost and require no soldering or custom (3D printed) parts to assemble. Additionally, the design is relatively low cost. 
 
 
-## Mini Clipboard Robot Orange Pi
-
-Variant of the "Mini Clipboard Robot" (see above), using an Orange Pi Lite instead of a Raspberry Pi Zero.
-
-
 ## Quadrature Encoder
 
 Custom designed optical quadrature encoder for a "TT Motor" gearbox. Includes a 3D printable encoder disk and mounting plate to be used with two photo interrupters. Mounting plate is used to position photo interrupters to ensure proper phase difference for quadrature encoder operation.
