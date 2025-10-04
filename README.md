@@ -5,7 +5,7 @@ CAD models for robots and custom designed parts.
 
 ## Design Software
 
-Designed using FreeCAD (1.0.0+ required)
+Designed using FreeCAD (1.0.x)
 
 ## Mini Clipboard Robot
 
