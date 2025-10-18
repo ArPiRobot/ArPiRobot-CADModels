@@ -1,0 +1,20 @@
+Launcher Assuemby: 
+  - Print each component (other than the motor) separately and assemble)
+  - Caps are installed onto pegs using superglue
+
+ExitAssembly:
+  - Print the entire assembly in one piece. Orient with arms guiding ball upwards. Tree supports
+
+MountAssembly:
+  - Print the entire assembly in one piece.
+
+HolsterTube:
+  - Single part. Print and glue to exit assembly with superglue
+
+Ball:
+  - Use superglue and guide peg to glue halves together
+  - Print multiple to load into holseter tube
+
+Required screws:
+  - Threaded (wood screw style) to attach launcher assembly to motor. Recessed into rotating arm part
+  - Bolts to attach mount assembly to the motor
