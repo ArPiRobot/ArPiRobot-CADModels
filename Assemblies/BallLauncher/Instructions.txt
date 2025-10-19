@@ -1,5 +1,6 @@
 Launcher Assuemby: 
   - Print each component (other than the motor) separately and assemble)
+  - Screws used to attach rotating components. Machine screw / bolt style threading with nut
 
 ExitAssembly:
   - Print the entire assembly in one piece. Orient with arms guiding ball upwards. Tree supports
