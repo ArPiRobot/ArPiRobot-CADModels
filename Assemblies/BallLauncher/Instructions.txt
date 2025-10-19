@@ -1,6 +1,5 @@
 Launcher Assuemby: 
   - Print each component (other than the motor) separately and assemble)
-  - Caps are installed onto pegs using superglue
 
 ExitAssembly:
   - Print the entire assembly in one piece. Orient with arms guiding ball upwards. Tree supports
